@@ -50,7 +50,7 @@ dependencies: {}
 ### URLs
 
 # url of originating SCM repository
-repository: http://example.com/repository
+repository: https://github.com/chrismeyersfsu/test_things
 
 
 # url to online docs
@@ -58,8 +58,8 @@ documentation: http://docs.example.com
 
 
 # homepage of the collection/project
-homepage: http://example.com
+homepage: https://github.com/chrismeyersfsu/test_things
 
 
 # issue tracker url
-issues: http://example.com/issue/tracker
+issues: https://github.com/chrismeyersfsu/test_things/issues
